@@ -1,16 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _23011556_035
-{
-    internal class evenoddchecker
+
+    public class evenoddchecker
     {
-        class EvenOdd
-        {
-            public static void Run()
+        public void EvenOdd()
+        
             {
                 Console.Write("Enter a number: ");
                 int num = Convert.ToInt32(Console.ReadLine());
@@ -22,5 +16,6 @@ namespace _23011556_035
             }
         }
 
-    }
-}
+    
+
+
