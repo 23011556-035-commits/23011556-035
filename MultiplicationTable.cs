@@ -3,7 +3,7 @@
 
     public class MultiplicationTable
     {
-       public class Multiplication()
+       public void Multiplication()
         
         
             {
@@ -14,6 +14,7 @@
                     Console.WriteLine($"{num} x {i} = {num * i}");
             }
         }
+
 
 
 
