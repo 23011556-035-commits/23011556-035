@@ -4,7 +4,7 @@
 
 public class FactorialCalculator
     {
-       public class Factorial()
+       public void Factorial()
         
         
             {
@@ -24,5 +24,6 @@ public class FactorialCalculator
         }
 
     
+
 
 
