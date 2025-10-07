@@ -1,16 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _23011556_035
-{
-    internal class FactorialCalculator
+
+
+public class FactorialCalculator
     {
-        class Factorial
-        {
-            public static void Run()
+       public class Factorial()
+        
+        
             {
                 Console.Write("Enter a number: ");
                 int n = Convert.ToInt32(Console.ReadLine());
@@ -27,5 +23,6 @@ namespace _23011556_035
             }
         }
 
-    }
-}
+    
+
+
