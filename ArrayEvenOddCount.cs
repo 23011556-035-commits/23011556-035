@@ -1,17 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _23011556_035
+public class ArrayEvenOddCount
 {
-    internal class ArrayEvenOddCount
-    {
-        class EvenOddCount
+       public class EvenOddCount();
         {
-            public static void Run()
-            {
+            
                 int[] arr = new int[10];
                 int even = 0, odd = 0;
 
@@ -29,5 +21,6 @@ namespace _23011556_035
             }
         }
 
-    }
-}
+    
+
+
