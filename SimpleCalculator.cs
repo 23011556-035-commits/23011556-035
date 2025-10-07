@@ -1,16 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _23011556_035
-{
-    internal class SimpleCalculator
+    public class SimpleCalculator
     {
-        class Calculator
-        {
-            public static void Run()
+        public void Calculator()
+        
+    
             {
                 Console.Write("Enter first number: ");
                 double num1 = Convert.ToDouble(Console.ReadLine());
@@ -35,5 +29,6 @@ namespace _23011556_035
             }
         }
 
-    }
-}
+    
+
+
