@@ -4,7 +4,7 @@
 
 public class ArraySearch
     {
-       public class Array1()
+       public void Array1()
         
         
             {
@@ -39,4 +39,5 @@ public class ArraySearch
 
 
         
+
 
