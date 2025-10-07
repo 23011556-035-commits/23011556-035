@@ -2,7 +2,7 @@
 
 public class ArrayMaxMin
     {
-       public class Array();
+       public void Array();
         
             {
                 int[] arr = new int[10];
@@ -24,5 +24,6 @@ public class ArrayMaxMin
         }
 
     
+
 
 
