@@ -1,16 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _23011556_035
-{
-    internal class ArrayMaxMin
+public class ArrayMaxMin
     {
-        class Array
-        {
-            public static void Run()
+       public class Array();
+        
             {
                 int[] arr = new int[10];
                 Console.WriteLine("Enter 10 integers:");
@@ -30,5 +23,6 @@ namespace _23011556_035
             }
         }
 
-    }
-}
+    
+
+
