@@ -1,7 +1,7 @@
 ﻿using System;
 public class ArrayEvenOddCount
 {
-       public class EvenOddCount();
+       public void EvenOddCount();
         {
             
                 int[] arr = new int[10];
@@ -22,5 +22,6 @@ public class ArrayEvenOddCount
         }
 
     
+
 
 
