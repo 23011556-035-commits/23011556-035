@@ -4,7 +4,7 @@
 
     public class GradeEvaluator
     {
-        public class Grade()
+        public void Grade()
         
             
             {
@@ -24,5 +24,6 @@
 
 
     
+
 
 
