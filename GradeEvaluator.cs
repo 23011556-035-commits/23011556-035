@@ -1,16 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _23011556_035
-{
-    internal class GradeEvaluator
+
+
+    public class GradeEvaluator
     {
-        class Grade
-        {
-            public static void Run()
+        public class Grade()
+        
+            
             {
                 Console.Write("Enter your marks (0–100): ");
                 int marks = Convert.ToInt32(Console.ReadLine());
@@ -27,5 +23,6 @@ namespace _23011556_035
         }
 
 
-    }
-}
+    
+
+
