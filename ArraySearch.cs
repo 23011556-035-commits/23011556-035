@@ -1,16 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _23011556_035
-{
-    internal class ArraySearch
+
+
+public class ArraySearch
     {
-        class Array
-        {
-            public static void Run()
+       public class Array1()
+        
+        
             {
                 Console.Write("Enter number of elements: ");
                 int n = Convert.ToInt32(Console.ReadLine());
@@ -39,7 +35,8 @@ namespace _23011556_035
                     Console.WriteLine($"{search} not found in array.");
             }
         }
-    }
+    
 
-}
+
         
+
