@@ -1,16 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _23011556_035
-{
-    internal class MultiplicationTable
+
+    public class MultiplicationTable
     {
-        class Multiplication
-        {
-            public static void Run()
+       public class Multiplication()
+        
+        
             {
                 Console.Write("Enter a number: ");
                 int num = Convert.ToInt32(Console.ReadLine());
@@ -20,5 +15,6 @@ namespace _23011556_035
             }
         }
 
-    }
-}
+
+
+
