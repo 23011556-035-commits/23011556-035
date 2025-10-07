@@ -1,16 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _23011556_035
-{
-    internal class ReverseNumber
+public class ReverseNumber
     {
-        class Reverse
-        {
-            public static void Run()
+        public void Reverse()
+        
+    
             {
                 Console.Write("Enter an integer: ");
                 int num = Convert.ToInt32(Console.ReadLine());
@@ -27,5 +21,6 @@ namespace _23011556_035
             }
         }
 
-    }
-}
+    
+
+
